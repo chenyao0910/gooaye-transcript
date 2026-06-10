@@ -8,17 +8,24 @@
 
 每集逐字稿依節目結構分為以下區塊：
 - **業配**
-- **近況更新**
+- **閒話家常**
 - **市場話題**
-- **QA**
+- **Q&A**
+
+### 收錄集數
+
+| 集數 | 集數 | 集數 | 集數 | 集數 |
+|---|---|---|---|---|
+| EP660 🍄‍🟫 | EP661 🚲 | EP662 ⛑️ | EP663 🦘 | EP664 🐟 |
+| EP665 🌸 | EP666 🍐 | EP667 🌍 | EP668 🦞 | EP669 🎈 |
 
 ### 資料夾結構
 
 每集獨立一個資料夾，以 YouTube 標題命名：
 
 ```
-EP666 🍐/
-  EP666 🍐.md
+EP669 🎈/
+  EP669 🎈.md
 ```
 
 ### 來源
@@ -33,17 +40,24 @@ Transcripts for the 股癌 (Gooaye) podcast, auto-generated with whisper.cpp and
 
 Each transcript is organized into sections:
 - **Ad (業配)**
-- **Personal Updates (近況更新)**
+- **Casual Chat (閒話家常)**
 - **Market Topics (市場話題)**
 - **Q&A**
+
+### Episodes
+
+| Episode | Episode | Episode | Episode | Episode |
+|---|---|---|---|---|
+| EP660 🍄‍🟫 | EP661 🚲 | EP662 ⛑️ | EP663 🦘 | EP664 🐟 |
+| EP665 🌸 | EP666 🍐 | EP667 🌍 | EP668 🦞 | EP669 🎈 |
 
 ### Folder Structure
 
 Each episode has its own folder named after the YouTube video title:
 
 ```
-EP666 🍐/
-  EP666 🍐.md
+EP669 🎈/
+  EP669 🎈.md
 ```
 
 ### Source
