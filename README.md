@@ -18,14 +18,15 @@
 |---|---|---|---|---|
 | EP660 🍄‍🟫 | EP661 🚲 | EP662 ⛑️ | EP663 🦘 | EP664 🐟 |
 | EP665 🌸 | EP666 🍐 | EP667 🌍 | EP668 🦞 | EP669 🎈 |
+| EP670 🫡 | EP671 🌼 | | | |
 
 ### 資料夾結構
 
 每集獨立一個資料夾，以 YouTube 標題命名：
 
 ```
-EP669 🎈/
-  EP669 🎈.md
+EP671 🌼/
+  EP671 🌼.md
 ```
 
 ### 來源
@@ -50,14 +51,15 @@ Each transcript is organized into sections:
 |---|---|---|---|---|
 | EP660 🍄‍🟫 | EP661 🚲 | EP662 ⛑️ | EP663 🦘 | EP664 🐟 |
 | EP665 🌸 | EP666 🍐 | EP667 🌍 | EP668 🦞 | EP669 🎈 |
+| EP670 🫡 | EP671 🌼 | | | |
 
 ### Folder Structure
 
 Each episode has its own folder named after the YouTube video title:
 
 ```
-EP669 🎈/
-  EP669 🎈.md
+EP671 🌼/
+  EP671 🌼.md
 ```
 
 ### Source
